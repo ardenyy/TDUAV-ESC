@@ -1,5 +1,5 @@
 # TDUAV-ESC
-**Electronic Speed Controller with BEMF Detection for BLDC Motors.**
+Electronic Speed Controller for BLDC Motors with 3A UBEC.
 
 Made for UAV Team "**TDUAV**" at Turkish-German University.
 - Atmega328P-AU Microcontroller
